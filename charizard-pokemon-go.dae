@@ -2,7 +2,7 @@
 <COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
   <asset><contributor><author></author><authoring_tool>FBX COLLADA exporter</authoring_tool><comments></comments></contributor><created>2020-11-20T04:17:51Z</created><keywords></keywords><modified>2020-11-20T04:17:51Z</modified><revision></revision><subject></subject><title></title><unit meter="1.000000" name="centimeter"></unit><up_axis>Y_UP</up_axis></asset>
   <library_images>
-    <image id="lizardon_0_0.tga-image" name="lizardon_0_0.tga"><init_from>file:///tmp/eeac77c9-222c-45d7-a085-9e6c828ad0f3/19a1cd7d8056e2e1d5f9dbecbfd2d1c2/lizardon_0_0.tga</init_from></image>
+    <image id="lizardon_0_0.tga-image" name="lizardon_0_0.tga"><init_from>https://github.com/JesusGarciaValadez/VR-Assets/blob/main/lizardon-0-0.tga?raw=true</init_from></image>
   </library_images>
   <library_materials>
     <material id="mat_0" name="mat_0">
